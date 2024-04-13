@@ -1,2 +1,16 @@
-![68747470733a2f2f7777772e68746d6c68696e74732e636f6d2f696d6167652f72656163742f7265616374576561746865724170702e706e67](https://github.com/Suyace/WeatherApp/assets/160857162/b9b6777f-bcf6-434c-8396-8c6df61864e7)
+<p align="center">
+<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
+</p>
 
+<p align="center">
+  View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
+ </p>
+ <p align="center">
+  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
+ </p>
+
+## Setup
+
+```
+npm i && npm start
+```
